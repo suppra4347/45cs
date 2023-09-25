@@ -1,0 +1,126 @@
+.nav-container {
+  background-color: beige;
+  color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+.nav-item {
+  background-color: #091334e4;
+  ;
+  border: 1px rgb(34, 14, 23);
+  margin: 2px;
+  text-decoration: none;
+  text-align: center;
+  height: 30px;
+  width: 100px;
+  line-height: 1.5;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #091334e4;
+  color: #fff;
+  padding: 1rem;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+main {
+  padding: 1rem;
+}
+
+section {
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+table {
+  list-style: none;
+  padding: 0;
+}
+
+tr td {
+  margin-bottom: 0.5rem;
+}
+
+footer {
+  background-color: #091334e4;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+.flex {
+  background-image: url(https://img.freepik.com/free-vector/ecommerce-web-store-hand-drawn-illustration_107791-10966.jpg?w=1380&t=st=1695618042~exp=1695618642~hmac=8a60d3c1a35fec321939c654a4bd411663bb9d4f115606f0d8311f449006dddc);
+  background-repeat:inherit;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+}
+
+form {
+  background-color: #18254b;
+  color: #ffffff;
+  text-align: center;
+}
+
+.box {
+  background-color: white;
+  color: #18254b;
+  text-align: center;
+}
+
+.seeproduct{
+  background-color: #18254b;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 550;
+}
+body{
+  position: relative;
+  height: 100vh;
+}
+footer{
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+#Welcometext{
+  font-weight: 700;
+}
+.head{
+
+}
